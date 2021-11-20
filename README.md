@@ -1,6 +1,6 @@
 ### Hi there  I am Shalini -A Passionate Software Engineer👋
 ![image](https://user-images.githubusercontent.com/60210475/142720045-e0905945-c582-4fc0-b5e3-cd3732715d78.png)
-![image](https://user-images.githubusercontent.com/60210475/142720349-3277c942-97d2-48ac-b2de-62070e5fc317.png)
+
 
 "A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives .
