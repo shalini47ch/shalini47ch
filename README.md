@@ -13,7 +13,7 @@ https://medium.com/@shalini47choudhary
 - 💬 Ask me about Technology and Analytics
 - 📫 How to reach me: shalini47choudhary@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am also a writer
+- ⚡ Fun fact: I am also a blogger
 
 
 **Technical Skills:**
