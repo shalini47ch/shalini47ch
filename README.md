@@ -63,6 +63,10 @@ _DB Language_:
 _Social Links_:
 
 ![icons8-linkedin-48](https://user-images.githubusercontent.com/60210475/142722623-7df69f6e-7353-4ce1-b6de-4d2e4653f03a.png) https://www.linkedin.com/in/shalini9ch/
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
  
 
 
