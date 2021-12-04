@@ -1,5 +1,6 @@
 ### Hi there,I am Shalini -A Passionate Software Engineer 👋
-![image](https://user-images.githubusercontent.com/60210475/142720045-e0905945-c582-4fc0-b5e3-cd3732715d78.png)
+
+ <img src="https://user-images.githubusercontent.com/60210475/144719293-a41da9af-3c17-43dd-a483-1f23cd58ce1f.jpg" width="300" height= "250" alt="accessibility text">
 
 
 **About Me:**
@@ -34,13 +35,27 @@ https://medium.com/@shalini47choudhary
 
 
 
-![icons8-linkedin-48](https://user-images.githubusercontent.com/60210475/142722623-7df69f6e-7353-4ce1-b6de-4d2e4653f03a.png) https://www.linkedin.com/in/shalini9ch/
+ ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) https://www.linkedin.com/in/shalini9ch/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch)](https://github.com/shalini47ch/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&theme=radical)](https://github.com/shalini47ch/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&hide=php)](https://github.com/shalini47ch/github-readme-stats)
+
+
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
+
+
+
+
+
+
 
 
 
