@@ -9,7 +9,7 @@ Curious to solve complex real world problems and gain different perspectives .
 https://medium.com/@shalini47choudhary
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
-- 🌱 I’m currently exploring more about Graph Ql ,API's and AB Testing
+- 🌱 I’m currently exploring more about Graph Ql and API's
 - 🤔 I’m looking for help with finding an exciting role
 - 💬 Ask me about Technology and Analytics
 - 📫 How to reach me: shalini47choudhary@gmail.com
