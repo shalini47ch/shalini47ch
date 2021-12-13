@@ -10,7 +10,7 @@ https://medium.com/@shalini47choudhary
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
 - 🌱 I’m currently exploring more about Graph Ql and API's
-- 🤔 I’m looking for help with finding an exciting role
+- 🤔 I’m open to opportunities
 - 💬 Ask me about Technology and Analytics
 - 📫 How to reach me: shalini47choudhary@gmail.com
 - 😄 Pronouns: She/Her
