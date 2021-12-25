@@ -1,6 +1,7 @@
 ### Hi there,I am Shalini -A Passionate Software Engineer 👋
 
- <img src="https://user-images.githubusercontent.com/60210475/144719293-a41da9af-3c17-43dd-a483-1f23cd58ce1f.jpg" width="300" height= "250" alt="accessibility text">
+ <img width="383" alt="image" src="https://user-images.githubusercontent.com/60210475/147389822-083504d4-91f8-4442-9fd5-bacf511a7cbf.png">
+
 
 
 **About Me:**
