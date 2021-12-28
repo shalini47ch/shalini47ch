@@ -1,4 +1,4 @@
-### Hi there,I am Shalini -A Passionate Software Engineer 👋
+### Hi there,I am Shalini -A Passionate Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  <img width="383" alt="image" src="https://user-images.githubusercontent.com/60210475/147389822-083504d4-91f8-4442-9fd5-bacf511a7cbf.png">
 
