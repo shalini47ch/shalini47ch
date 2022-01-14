@@ -42,7 +42,7 @@ https://medium.com/@shalini47choudhary
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&theme=radical)](https://github.com/shalini47ch/github-readme-stats)
+
 
 
 
