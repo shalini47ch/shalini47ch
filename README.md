@@ -44,7 +44,7 @@ https://medium.com/@shalini47choudhary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&theme=radical)](https://github.com/shalini47ch/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&hide=php)](https://github.com/shalini47ch/github-readme-stats)
+
 
 [![Shalini's github activity graph](https://activity-graph.herokuapp.com/graph?username=shalini47ch)](https://github.com/shalini47ch/github-readme-activity-graph)
 
