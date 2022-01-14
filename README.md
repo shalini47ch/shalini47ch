@@ -38,7 +38,7 @@ https://medium.com/@shalini47choudhary
 
  ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) https://www.linkedin.com/in/shalini9ch/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
 
