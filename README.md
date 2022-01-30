@@ -1,16 +1,12 @@
 ### Hi there,I am Shalini -A Passionate Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- <img width="383" alt="image" src="https://user-images.githubusercontent.com/60210475/147389822-083504d4-91f8-4442-9fd5-bacf511a7cbf.png">
-
-
-
 **About Me:**
 "A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives .
 https://medium.com/@shalini47choudhary
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
-- 🌱 I’m currently exploring more about Graph Ql and API's
+- 🌱 I’m currently exploring more about Graph QL and API's
 - 🤔 I’m open to opportunities
 - 💬 Ask me about Technology and Analytics
 - 📫 How to reach me: shalini47choudhary@gmail.com
@@ -41,6 +37,11 @@ https://medium.com/@shalini47choudhary
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
+
+
+![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&layout=compact)](https://github.com/shalini47ch/github-readme-stats)
 
 
 
