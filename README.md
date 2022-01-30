@@ -1,6 +1,7 @@
 ### Hi there,I am Shalini -A Passionate Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **About Me:**
+
 "A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives .
 https://medium.com/@shalini47choudhary
