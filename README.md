@@ -12,6 +12,8 @@
 _"A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives._
 
+<a href="https://app.daily.dev/shalini9ch"><img src="https://api.daily.dev/devcards/3c3a1cfc5bf645a9b49cc118888e1d76.png?r=nte" width="200" align="right" alt="Shalini Choudhary's Dev Card"/></a>
+
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
 - 🌱 I’m currently exploring more about Graph QL and API's
 - 🤔 I’m open to opportunities
@@ -19,6 +21,8 @@ Curious to solve complex real world problems and gain different perspectives._
 - 📫 How to reach me: shalini47choudhary@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a blogger
+
+
 
 
 **Technical Skills:**
@@ -38,11 +42,6 @@ Curious to solve complex real world problems and gain different perspectives._
 ![icons8-postman-api-64](https://user-images.githubusercontent.com/60210475/152476476-e5b774a6-9c1a-47f8-a5e5-3c03a8c3ad12.png)
 ![icons8-webpack-48](https://user-images.githubusercontent.com/60210475/152476656-54e8e425-d7ed-4afd-b23f-f51d72a2b5ee.png)
 ![icons8-numpy-48](https://user-images.githubusercontent.com/60210475/152477086-38091106-683a-45e0-a589-d02c1db662a4.png)
-
-<a href="https://app.daily.dev/shalini9ch"><img src="https://api.daily.dev/devcards/3c3a1cfc5bf645a9b49cc118888e1d76.png?r=nte" width="400" alt="Shalini Choudhary's Dev Card"/></a>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
 
 ![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&theme=radical)
 
