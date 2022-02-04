@@ -6,10 +6,8 @@
  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@shalini47choudhary)
  [![Dev Badge](https://img.shields.io/badge/Dev-12100E?style=flat-square&logo=Dev&logoColor=white)](https://dev.to/shalini47ch)
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B12C&lines=Software+Engineer%7CFrontend+Developer)](https://git.io/typing-svg)
  
-
-
-**About Me:**
 
 _"A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives._
