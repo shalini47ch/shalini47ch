@@ -12,7 +12,8 @@
 _"A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives._
 
-<a href="https://app.daily.dev/shalini9ch"><img src="https://api.daily.dev/devcards/3c3a1cfc5bf645a9b49cc118888e1d76.png?r=nte" width="200" align="right" alt="Shalini Choudhary's Dev Card"/></a>
+
+<a href="https://app.daily.dev/shalini9ch"><img src="https://api.daily.dev/devcards/3c3a1cfc5bf645a9b49cc118888e1d76.png?r=buj" width="200" align="right"  alt="Shalini Choudhary's Dev Card"/></a>
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
 - 🌱 I’m currently exploring more about Graph QL and API's
