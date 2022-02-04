@@ -1,11 +1,14 @@
 <p align="center" ><b>Hi there,I am Shalini Choudhary</b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <hr/>
 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shalini9ch/)
+ [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-shalini.netlify.app/)
+
+
 **About Me:**
 
 _"A learner by heart and software engineer by profession".
 Curious to solve complex real world problems and gain different perspectives._
-https://medium.com/@shalini47choudhary
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
 - 🌱 I’m currently exploring more about Graph QL and API's
@@ -35,28 +38,14 @@ https://medium.com/@shalini47choudhary
 ![icons8-numpy-48](https://user-images.githubusercontent.com/60210475/152477086-38091106-683a-45e0-a589-d02c1db662a4.png)
 
 
-
-
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/shalini9ch/)
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalini47ch&theme=synthwave)](https://git.io/streak-stats)
-
 
 ![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&layout=compact)](https://github.com/shalini47ch/github-readme-stats)
 
 
-
-
-
 [![Shalini's github activity graph](https://activity-graph.herokuapp.com/graph?username=shalini47ch)](https://github.com/shalini47ch/github-readme-activity-graph)
-
-
-
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
