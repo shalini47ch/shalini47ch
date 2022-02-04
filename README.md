@@ -1,9 +1,10 @@
-### Hi there,I am Shalini -A Passionate Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center" ><b>Hi there,I am Shalini Choudhary</b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<hr/>
 
 **About Me:**
 
-"A learner by heart and software engineer by profession".
-Curious to solve complex real world problems and gain different perspectives .
+_"A learner by heart and software engineer by profession".
+Curious to solve complex real world problems and gain different perspectives._
 https://medium.com/@shalini47choudhary
 
 - 🔭 I’m currently working on Frontend Technologies mainly React JS
@@ -28,12 +29,16 @@ https://medium.com/@shalini47choudhary
 ![icons8-git-48](https://user-images.githubusercontent.com/60210475/142722347-3d98d47b-ebe3-4cf4-8870-f0b6e6d66d65.png)
 ![icons8-gitlab-48](https://user-images.githubusercontent.com/60210475/142722389-ecaa98a3-663b-417f-9cc2-ddb88713bcee.png)
 ![icons8-bitbucket-48](https://user-images.githubusercontent.com/60210475/142722425-b0667d78-dd2c-42ef-9dea-97b1790398fb.png)
-
 ![icons8-sql-48](https://user-images.githubusercontent.com/60210475/142722491-ae9bfa28-a490-4d50-a0b8-c84cab5abe82.png)
+![icons8-postman-api-64](https://user-images.githubusercontent.com/60210475/152476476-e5b774a6-9c1a-47f8-a5e5-3c03a8c3ad12.png)
+![icons8-webpack-48](https://user-images.githubusercontent.com/60210475/152476656-54e8e425-d7ed-4afd-b23f-f51d72a2b5ee.png)
+![icons8-numpy-48](https://user-images.githubusercontent.com/60210475/152477086-38091106-683a-45e0-a589-d02c1db662a4.png)
 
 
 
- ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) https://www.linkedin.com/in/shalini9ch/
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/shalini9ch/)
 
 
 
