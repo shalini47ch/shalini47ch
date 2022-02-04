@@ -19,7 +19,6 @@ Curious to solve complex real world problems and gain different perspectives._
 - 🌱 I’m currently exploring more about Graph QL and API's
 - 🤔 I’m open to opportunities
 - 💬 Ask me about Technology and Analytics
-- 📫 How to reach me: shalini47choudhary@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a blogger
 
