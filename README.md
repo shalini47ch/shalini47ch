@@ -1,4 +1,4 @@
-<p align="center" ><b>Hi there,I am Shalini Choudhary</b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align="center" ><b>Hi there,I am Shalini </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <hr/>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shalini9ch/)
