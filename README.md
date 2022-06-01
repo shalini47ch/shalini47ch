@@ -1,4 +1,4 @@
-<p align="center" ><b>Hi there,I am Shalini </b></p>
+<p align="center" ><b>Hi there,I am Shalini :wave:</b></p>
 <hr/>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shalini9ch/)
