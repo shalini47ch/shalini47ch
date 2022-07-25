@@ -5,6 +5,7 @@
  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-shalini.netlify.app/)
  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@shalini47choudhary)
  [![Dev Badge](https://img.shields.io/badge/Dev-12100E?style=flat-square&logo=Dev&logoColor=white)](https://dev.to/shalini47ch)
+ [![LinkTree](https://img.shields.io/badge/Linktree-39E09B.svg?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/shalini9)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B12C&lines=Software+Engineer%7CFrontend+Developer)](https://git.io/typing-svg)
  
