@@ -47,6 +47,7 @@ Curious to solve complex real world problems and gain different perspectives._
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&layout=compact)](https://github.com/shalini47ch/github-readme-stats)
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
 
 
