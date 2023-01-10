@@ -20,7 +20,7 @@ Curious to solve complex real world problems and gain different perspectives._
 - 🌱 I’m exploring more about fullstack development focused around Nodejs apart from it I possess sound knowledge of data structures and algorithms
 - 💬 Ask me about Technology and Analytics
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am also a blogger
+
 
 
 
