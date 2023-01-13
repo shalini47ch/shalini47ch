@@ -43,9 +43,6 @@ Curious to solve complex real world problems and gain different perspectives._
 ![icons8-webpack-48](https://user-images.githubusercontent.com/60210475/152476656-54e8e425-d7ed-4afd-b23f-f51d72a2b5ee.png)
 ![icons8-numpy-48](https://user-images.githubusercontent.com/60210475/152477086-38091106-683a-45e0-a589-d02c1db662a4.png)
 
-![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalini47ch&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini47ch&layout=compact)](https://github.com/shalini47ch/github-readme-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
