@@ -11,7 +11,7 @@
  
 
 _"A learner by heart and software engineer by profession".
-Curious to solve complex real world problems and gain different perspectives._
+Curious to solve complex real world problems and gain different perspectives ._
 
 
 
