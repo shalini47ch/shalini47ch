@@ -7,7 +7,7 @@
  [![Dev Badge](https://img.shields.io/badge/Dev-12100E?style=flat-square&logo=Dev&logoColor=white)](https://dev.to/shalini47ch)
  [![LinkTree](https://img.shields.io/badge/Linktree-39E09B.svg?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/shalini9)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B12C&lines=Software+Engineer%7CFullstack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B12C&lines=Software+Engineer%7CFullstack)](https://git.io/typing-svg)
  
 
 _"A learner by heart and software engineer by profession".
