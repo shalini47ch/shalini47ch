@@ -16,9 +16,9 @@ Curious to solve complex real world problems and gain different perspectives ._
 
 
 
-- 🔭 I’m currently working on Frontend Technologies mainly React JS
+- 🔭 Generalist Software Engineer with hands-on experience in frontend development.
 - 🌱 I’m exploring more about fullstack development focused around Nodejs apart from it I possess sound knowledge of data structures and algorithms
-- 💬 Ask me about Technology and Analytics
+- 💬 Had also worked with neural networks and has a research paper published to help the people with hearing and speech disabilities.
 - 😄 Pronouns: She/Her
 
 
