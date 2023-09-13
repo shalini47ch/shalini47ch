@@ -34,7 +34,7 @@ Curious to solve complex real world problems and gain different perspectives ._
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,postman,tensorflow,netlify,python,gitlab,github,gherkin,heroku,c,cpp,mysql,jest,bootstrap,scss)](https://skillicons.dev)
 
 
-# My Medium Articles
+**My Medium Articles**
 
 Welcome to my collection of Medium articles. Below is a list of my articles along with clickable links:
 
