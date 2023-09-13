@@ -34,7 +34,15 @@ Curious to solve complex real world problems and gain different perspectives ._
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,postman,tensorflow,netlify,python,gitlab,github,gherkin,heroku,c,cpp,mysql,jest,bootstrap,scss)](https://skillicons.dev)
 
 
+# My Medium Articles
 
+Welcome to my collection of Medium articles. Below is a list of my articles along with clickable links:
+
+| Article Title                                       | Description                                                |
+|-----------------------------------------------------|------------------------------------------------------------|
+| [Unveiling the Power Of Promises in Javascript](https://medium.com/@shalini47choudhary/unveiling-the-power-of-promises-in-javascript-739c6a243464)  | An article diving deep into promises and their implementation in JavaScript. |
+| [JavaScript Working, Execution, and Hoisting](https://medium.com/@shalini47choudhary/javascript-working-execution-and-hoisting-e0232074b22d)  | This article delves into the internal working of JavaScript execution context along with hoisting. |
+| [How to start with deep learning](https://medium.com/@shalini47choudhary/how-to-start-with-deep-learning-b87ad4238ca4)  | This article highlights the steps you need to follow to get started with deep learning. |
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
 
