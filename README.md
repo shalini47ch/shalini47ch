@@ -16,9 +16,9 @@ Curious to solve complex real world problems and gain different perspectives ._
 
 
 
-- Generalist Software Engineer with hands-on experience in frontend development.
-- I’m exploring more about fullstack development focused around Nodejs apart from it I possess sound knowledge of data structures and algorithms
-- I have experience working with neural networks and have published a research paper aimed at assisting individuals with hearing and speech impairments.
+- Generalist Software Engineer with hands-on experience in fullstack development.
+- Highly proficient in data structures and algorithms, with a keen enthusiasm for tackling novel challenges on a massive scale.
+- Have experience working with neural networks and have published a research paper aimed at assisting individuals with hearing and speech impairments.
 - Learning more about building scalable systems 
 - Pronouns: She/Her
 
