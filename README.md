@@ -41,7 +41,7 @@ Welcome to my collection of Medium articles. Below is a list of my articles alon
 | Article Title                                       | Description                                                |
 |-----------------------------------------------------|------------------------------------------------------------|
 | [Unveiling the Power Of Promises in Javascript](https://medium.com/@shalini47choudhary/unveiling-the-power-of-promises-in-javascript-739c6a243464)  | An article diving deep into promises and their implementation in JavaScript. |
-| [JavaScript Working, Execution, and Hoisting](https://medium.com/@shalini47choudhary/javascript-working-execution-and-hoisting-e0232074b22d)  | This article delves into the internal working of JavaScript execution context along with hoisting. |
+| [JavaScript Working, Execution, and Hoisting](https://medium.com/@shalini47choudhary/javascript-working-execution-and-hoisting-e0232074b22d)  | This article dives deep in the internal working of JavaScript execution context along with hoisting. |
 | [How to start with deep learning](https://medium.com/@shalini47choudhary/how-to-start-with-deep-learning-b87ad4238ca4)  | This article highlights the steps you need to follow to get started with deep learning. |
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
