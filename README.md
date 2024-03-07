@@ -31,7 +31,7 @@ Curious to solve complex real world problems and gain different perspectives ._
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,postman,tensorflow,netlify,python,gitlab,github,gherkin,heroku,c,cpp,mysql,jest,bootstrap,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,postman,tensorflow,netlify,python,gitlab,github,gherkin,heroku,c,cpp,mysql,jest,bootstrap,scss,redis)](https://skillicons.dev)
 
 
 **My Medium Articles**
