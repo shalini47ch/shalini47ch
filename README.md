@@ -44,6 +44,7 @@ Welcome to my collection of Medium articles. Below is a list of my articles alon
 | [JavaScript Working, Execution, and Hoisting](https://medium.com/@shalini47choudhary/javascript-working-execution-and-hoisting-e0232074b22d)  | This article dives deep in the internal working of JavaScript execution context along with hoisting. |
 | [How to start with deep learning](https://medium.com/@shalini47choudhary/how-to-start-with-deep-learning-b87ad4238ca4)  | This article highlights the steps you need to follow to get started with deep learning. |
 | [Adapter Design Pattern](https://medium.com/@shalini47choudhary/adapter-design-pattern-your-key-to-compatibility-in-coding-1d448014db2f)|This article explains in depth about adapter design pattern
+| [Observer Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-observer-design-pattern-73b9480d22cf)|This article explains in depth about observer design pattern
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
 
