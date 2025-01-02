@@ -45,6 +45,8 @@ Welcome to my collection of Medium articles. Below is a list of my articles alon
 | [How to start with deep learning](https://medium.com/@shalini47choudhary/how-to-start-with-deep-learning-b87ad4238ca4)  | This article highlights the steps you need to follow to get started with deep learning. |
 | [Adapter Design Pattern](https://medium.com/@shalini47choudhary/adapter-design-pattern-your-key-to-compatibility-in-coding-1d448014db2f)|This article explains in depth about adapter design pattern
 | [Observer Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-observer-design-pattern-73b9480d22cf)|This article explains in depth about observer design pattern
+| [Builder Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-builder-design-pattern-4f414997b223)|This article explains in depth about builder design pattern
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch)
 
