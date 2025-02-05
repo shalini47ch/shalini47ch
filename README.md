@@ -19,7 +19,7 @@ Curious to solve complex real world problems and gain different perspectives ._
 - Generalist Software Engineer with hands-on experience in fullstack development.
 - Highly proficient in data structures and algorithms, with a keen enthusiasm for tackling novel challenges on a massive scale.
 - Have experience working with neural networks and have published a research paper aimed at assisting individuals with hearing and speech impairments.
-- Learning more about building scalable systems and exploring about redis
+- Learning more about building scalable systems and exploring about redis,java and springboot
 - Pronouns: She/Her
 
 
