@@ -1,5 +1,4 @@
 <p align="center"><b>Hi there, I am Shalini 👋</b></p>
-<hr/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shalini9ch/">
@@ -26,7 +25,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B12C&lines=Software+Engineer%7CFullstack+Developer%7CLoves+Design+Patterns" />
 </p>
 
----
+
 
 _"A learner by heart and software engineer by profession". I’m passionate about solving real-world problems and creating impactful software._
 
@@ -38,11 +37,9 @@ _"A learner by heart and software engineer by profession". I’m passionate abou
 - Currently exploring Redis, Java, Spring Boot, and scalable architectures.
 - Pronouns: She/Her
 
----
+
 
 ## Technical Skills
-
-
 
 ### 🔹 Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -110,7 +107,7 @@ _"A learner by heart and software engineer by profession". I’m passionate abou
 [![System Design](https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge)]()
 [![Low Level Design](https://img.shields.io/badge/Low%20Level%20Design-E91E63?style=for-the-badge)]()
 
----
+
 
 ### Featured Projects
 
@@ -139,7 +136,6 @@ A real-time chat application with user authentication and Socket.IO integration.
 
 
 
----
 
 ### My Medium Articles
 
@@ -152,14 +148,12 @@ A real-time chat application with user authentication and Socket.IO integration.
 | [Observer Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-observer-design-pattern-73b9480d22cf) | Deep dive into the observer pattern. |
 | [Builder Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-builder-design-pattern-4f414997b223) | Detailed explanation of the builder pattern. |
 
----
+
 
 ### Let's Connect
 - Medium: [@shalini47choudhary](https://medium.com/@shalini47choudhary)
 - LinkedIn: [linkedin.com/in/shalini9ch](https://www.linkedin.com/in/shalini9ch/)
 
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shalini47ch.shalini47ch" />
