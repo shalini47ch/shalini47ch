@@ -128,6 +128,8 @@ An interactive full-stack web app to help developers learn all 23 GoF design pat
 
 #### [Chit-Chat App](https://github.com/shalini47ch/chit-chat-frontend)
 
+**Highlights:**
+
 A real-time chat application with user authentication and Socket.IO integration.
 
 - Built with MERN stack + Socket.IO
