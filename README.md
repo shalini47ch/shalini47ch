@@ -150,6 +150,8 @@ A real-time chat application with user authentication and Socket.IO integration.
 | [Adapter Design Pattern](https://medium.com/@shalini47choudhary/adapter-design-pattern-your-key-to-compatibility-in-coding-1d448014db2f) | In-depth explanation of the adapter pattern. |
 | [Observer Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-observer-design-pattern-73b9480d22cf) | Deep dive into the observer pattern. |
 | [Builder Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-builder-design-pattern-4f414997b223) | Detailed explanation of the builder pattern. |
+| [Strategy Design Pattern](https://medium.com/@shalini47choudhary/strategy-design-pattern-1d2e713d34a4) | Detailed explanation of the strategy pattern. |
+
 
 
 
