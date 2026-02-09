@@ -10,7 +10,7 @@
 
 ### Software Engineer | Fullstack Developer
 
-> **"A learner by heart and software engineer by profession."** > I am passionate about architecting scalable systems, solving complex problems, and creating impactful software through clean, maintainable code.
+> **"A learner by heart and software engineer by profession."**  I am passionate about architecting scalable systems, solving complex problems, and creating impactful software through clean, maintainable code.
 
 
 
