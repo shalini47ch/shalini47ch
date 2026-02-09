@@ -1,18 +1,19 @@
-# Hi there, I'm Shalini 👋 
+# Hi there, I'm Shalini <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px">
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shalini9ch/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-shalini.netlify.app/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://medium.com/@shalini47choudhary"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white" /></a>
-  <a href="https://dev.to/shalini47ch"><img src="https://img.shields.io/badge/Dev-12100E?style=flat-square&logo=Dev&logoColor=white" /></a>
-  <a href="https://leetcode.com/shalini47choudhary/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shalini9ch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-shalini.netlify.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://medium.com/@shalini47choudhary"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/shalini47ch"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://leetcode.com/shalini47choudhary/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-> **Software Engineer | Fullstack Developer**
-> 
-> *"A learner by heart and software engineer by profession."* I am passionate about architecting scalable systems, solving real-world problems, and creating impactful software through clean code.
+### Software Engineer | Fullstack Developer
 
----
+> **"A learner by heart and software engineer by profession."** > I am passionate about architecting scalable systems, solving complex problems, and creating impactful software through clean, maintainable code.
+
+
+
 
 ### About Me
 
@@ -22,7 +23,7 @@
 - **Current Learning Path:** Deep-diving into **Redis**, **Java/Spring Boot**, and **Distributed Systems**.
 - **Pronouns:** She/Her
 
----
+
 
 ### Technical Expertise
 
@@ -35,7 +36,7 @@
 | **DevOps & Cloud** | Docker, Git/GitHub, Netlify, Heroku, Render |
 | **Core Concepts** | Design Patterns (GoF), System Design (HLD/LLD), OOP, DBMS |
 
----
+
 
 ###  Featured Projects
 
@@ -50,7 +51,7 @@
 - **Key Features:** Socket.IO integration for live chat, JWT-based secure authentication.
 - **Tech:** MERN Stack, Socket.IO.
 
----
+
 
 ### Recent Technical Articles
 I write about JavaScript internals and architectural patterns on **Medium**.
@@ -62,7 +63,7 @@ I write about JavaScript internals and architectural patterns on **Medium**.
 | [Observer Design Pattern](https://medium.com/@shalini47choudhary/diving-deep-into-observer-design-pattern-73b9480d22cf) | Behavioral Design |
 | [Deep Learning Foundations](https://medium.com/@shalini47choudhary/how-to-start-with-deep-learning-b87ad4238ca4) | AI/ML |
 
----
+
 
 ### Socials
 - **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/shalini9ch/) | [Medium](https://medium.com/@shalini47choudhary)
